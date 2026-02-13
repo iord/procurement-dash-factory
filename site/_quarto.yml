@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Procurement Intelligence Platform"
+  navbar: false
+
+format:
+  html:
+    toc: true
+    theme: cosmo
+execute:
+  echo: false

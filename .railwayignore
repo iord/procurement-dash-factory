@@ -1,0 +1,21 @@
+# Railway ignore patterns
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+.git/
+.gitignore
+*.log
+.DS_Store
+.cursor/
+node_modules/
+*.md
+!README.md
+!requirements.txt
+.env.local
+.env.*.local
